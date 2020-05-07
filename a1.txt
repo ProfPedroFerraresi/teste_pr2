@@ -1,4 +1,4 @@
 linha 1!
 Linha 2!
-Linha 3!
+Linha 3! - Conteúdo branch master
 Linha 4!
