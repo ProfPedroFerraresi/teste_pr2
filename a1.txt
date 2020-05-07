@@ -7,8 +7,19 @@ Linha 6 - Develop!
 
 
 
+
 BLoco 1{
   comando1
   comando2
   comando3
+ }
+
+
+
+Bloco master {
+  comando 11
+  comando 22
+  comando 33
+  comando 44
+  comando 55
 }
